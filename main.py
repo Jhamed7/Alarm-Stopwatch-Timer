@@ -13,7 +13,7 @@ from PySide6.QtWidgets import QMessageBox
 from PySide6.QtWidgets import *
 from PySide6.QtUiTools import QUiLoader
 from PySide6.QtCore import QThread
-import QToggleSwitch
+#import QToggleSwitch
 
 # -----------------------------------------------
 
